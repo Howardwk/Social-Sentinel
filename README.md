@@ -8,18 +8,18 @@ An open-source, AI-powered NLP tool designed to detect psychological manipulatio
 
 An open-source, interactive web application that uses Natural Language Processing (NLP) to detect phishing attempts and social engineering tactics in emails and messages. Instead of relying on static blocklists, this tool analyzes the semantic intent of the text to identify urgency, manipulation, and authority-based threats.
 
-## 🚀 Features
+## Features
 *   **Real-time Inference:** Uses a fine-tuned BERT model to classify text instantly.
 *   **Probability Scoring:** Provides a confidence metric for the threat assessment.
 *   **Interactive UI:** Built with Streamlit for a clean, user-friendly dashboard.
 *   **Zero-day Protection:** Analyzes the *psychology* of the message, helping to catch payload-less phishing attacks that bypass traditional spam filters.
 
-## 🛠️ Tech Stack
+## Tech Stack
 *   **Frontend:** Streamlit
 *   **AI/Machine Learning:** Hugging Face `transformers` (PyTorch backend)
 *   **Data Processing:** Pandas
 
-## 💻 Local Installation
+## Local Installation
 
 1. **Clone the repository:**
    ```bash
