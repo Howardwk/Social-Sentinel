@@ -19,6 +19,16 @@ An open-source, interactive web application that uses Natural Language Processin
 *   **AI/Machine Learning:** Hugging Face `transformers` (PyTorch backend)
 *   **Data Processing:** Pandas
 
+📂 Project Structure
+Plaintext
+semantic-shield/
+├── app.py                 # Core Streamlit application and ML inference logic
+├── requirements.txt       # Python dependencies (Streamlit, Transformers, etc.)
+├── .gitignore             # Configured to ignore virtual environments and cache
+├── README.md              # This project documentation
+├── CONTRIBUTING.md        # Guidelines for open-source contributors
+└── LICENSE                # MIT License
+
 ## Local Installation
 
 1. **Clone the repository:**
