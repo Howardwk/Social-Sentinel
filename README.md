@@ -1,4 +1,4 @@
-# Social Sentinel - AI-Powered Phishing & Social Engineering Analyzer
+# Social Sentinel: AI-Powered Phishing & Social Engineering Analyzer
 
 An open-source, AI-powered NLP tool designed to detect psychological manipulation, urgency, and social engineering tactics in emails and text messages.
 
