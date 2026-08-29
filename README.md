@@ -96,13 +96,23 @@ Streamlit will display a local URL in the terminal, typically:
 
 `http://localhost:8501`
 
-## Usage
+## User Guide
 
-1. Open the local URL shown in your terminal.
-2. Paste a suspicious email, SMS, or other message into the input box.
-3. Click **Analyze** to process the message.
-4. Social Sentinel passes the text through the NLP model.
-5. Review the resulting threat classification, probability score, and available indicators.
+Once you have completed the local installation and started the Streamlit server, follow these steps to analyze messages:
+
+### 1. Launch the Dashboard
+* Open your web browser and navigate to the local URL provided in your terminal (usually `http://localhost:8501`).
+
+### 2. Analyze Text
+* Locate the main text input box on the dashboard.
+* Paste the contents of a suspicious email, SMS, or direct message into the box.
+* Click the **Analyze Threat** button.
+
+### 3. Understanding the Results
+* **Classification:** The model will immediately flag the text as either *Safe*, *Suspicious*, or *Phishing*.
+* **Probability Score:** You will see a confidence metric (e.g., 92%). A higher score indicates the model is highly confident in its assessment based on the semantic intent and psychological manipulation detected.
+* **Threat Indicators:** If applicable, the dashboard will highlight specific sentences that exhibit urgency, authority-based threats, or manipulation.
+
 
 ## Current Scope
 
