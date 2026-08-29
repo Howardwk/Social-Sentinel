@@ -186,4 +186,4 @@ Machine learning predictions are probabilistic and may produce false positives o
 
 This project is licensed under the **MIT License**.
 
-See the `LICENSE` file for details.
+See the `LICENSE` file for more details.
