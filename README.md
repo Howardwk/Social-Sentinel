@@ -33,7 +33,7 @@ This approach allows the system to identify social engineering signals such as u
 ## Tech Stack
 
 * **Frontend:** Streamlit
-* **AI / Machine Learning:** Hugging Face `transformers`
+* **AI / Machine Learning:** PyTorch, Hugging Face `transformers`
 * **Model Architecture:** BERT
 * **ML Backend:** PyTorch
 * **Data Processing:** Pandas
