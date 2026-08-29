@@ -39,6 +39,44 @@ This approach allows the system to identify social engineering signals such as u
 * **Data Processing:** Pandas
 * **Language:** Python 3.9+
 
+## System Architecture
+
+The pipeline processes input text through linguistic preprocessing, transformer-based classification, and confidence scoring before rendering actionable telemetry in the UI.
+
+```text
+[ User Input (Email / SMS Text) ]
+               │
+               ▼
+   ┌───────────────────────┐
+   │   Streamlit Web UI    │
+   └───────────┬───────────┘
+               │
+               ▼
+   ┌───────────────────────┐
+   │   NLP Preprocessing   │
+   │  - Text Normalization │
+   │  - Tokenization       │
+   └───────────┬───────────┘
+               │
+               ▼
+   ┌───────────────────────┐
+   │   Inference Engine    │
+   │  - Fine-Tuned BERT    │
+   │  - PyTorch Backend    │
+   └───────────┬───────────┘
+               │
+               ▼
+   ┌───────────────────────┐
+   │  Threat Assessment    │
+   │  - Confidence Scoring │
+   │  - Intent Red Flags   │
+   └───────────┬───────────┘
+               │
+               ▼
+   [ Visual Risk Dashboard ]
+
+
+
 ## Project Structure
 
 ```text
