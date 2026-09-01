@@ -33,3 +33,10 @@ id,text,urgency_flag,authority_flag,manipulation_flag,label
 32,Storage Quota Exceeded pay now or your data will be lost.,1,1,1,phishing
 33,Go Green Ideas are Due June 30th!.,0,0,0,safe 
 34,Web Secure Password Requested.,0,0,0,safe
+35,Account Compromise call this number for more information.,1,1,1,phishing
+36,Payment Processing Failed click on the Netflix link below and pay.,0,1,1,phishing
+37,Order Confirmation for iPhone 14 Pro Max information on the link below.,0,0,1,phishing
+38,Unusual Sign-In Activity, click on the link below.,0,1,1,phishing
+39,Delivery failed click the link and track your delivery.,0,1,1,phishing
+40,Student in Johannesburg Job Alert.,0,0,0,safe 
+41,Payment Declined, Your payment failed click on the link now and update the billing info.,1,1,1,phishing
