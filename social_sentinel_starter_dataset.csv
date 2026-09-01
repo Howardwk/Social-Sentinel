@@ -12,3 +12,4 @@ id,text,urgency_flag,authority_flag,manipulation_flag,label
 11,SECURITY WARNING: Your crypto wallet has been compromised. Transfer your assets to this secure vault address immediately.,1,0,1,phishing
 12,Please find attached the meeting minutes from yesterday's board session.,0,0,0,safe
 13,Hey are we still on for the bootcamp tomorrow?.,0,0,0,safe
+14,Your purchase for $207.00 USD of BTC is now available in your account,1,0,1,phising
