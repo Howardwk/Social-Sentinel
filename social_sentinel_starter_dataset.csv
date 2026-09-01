@@ -26,3 +26,10 @@ id,text,urgency_flag,authority_flag,manipulation_flag,label
 25,Due to the nature of the changes we require you to review them or your account will remain suspended.,1,1,1,phishing
 26,Create a free account today and receive a 250 USD kick-start bonus.,0,0,1,phishing 
 27,Claim your free Google device today.,1,0,1,phishing
+28,Court Appearance payment, pay this amount now to avoid legal action.,1,1,1,phishing
+29,Benefit Suspension suspended due to an error or missing information update your information now.,1,1,1,phishing
+30,Tax Refund update your bank details.,0,1,1,phishing
+31,Voicemail Waiting click on the link to listen to the Voicemail.,1,0,1,phishing
+32,Storage Quota Exceeded pay now or your data will be lost.,1,1,1,phishing
+33,Go Green Ideas are Due June 30th!.,0,0,0,safe 
+34,Web Secure Password Requested.,0,0,0,safe
