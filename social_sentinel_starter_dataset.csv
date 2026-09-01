@@ -22,7 +22,7 @@ id,text,urgency_flag,authority_flag,manipulation_flag,label
 21,Notice water will not be available at 24 June 2026 please fill up your tank.,0,0,0,safe
 22,if you did not authorize this transfer you must act immediately Unless reversed within the next 24 hours the payment will be released and become non-recoverable.,1,1,1,phishing
 23,We detected multiple failed MFA attempts on your account Please verify immediately.,1,0,1,safe
-24,You have received a new payment to your Global Payment Service!.0,1,1,phishing
+24,You have received a new payment to your Global Payment Service!.,0,1,1,phishing
 25,Due to the nature of the changes we require you to review them or your account will remain suspended.,1,1,1,phishing
 26,Create a free account today and receive a 250 USD kick-start bonus.,0,0,1,phishing 
 27,Claim your free Google device today,1,0,1,phishing
