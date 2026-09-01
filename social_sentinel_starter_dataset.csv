@@ -13,7 +13,7 @@ id,text,urgency_flag,authority_flag,manipulation_flag,label
 12,Please find attached the meeting minutes from yesterday's board session.,0,0,0,safe
 13,Hey are we still on for the bootcamp tomorrow?.,0,0,0,safe
 14,Your purchase for $207.00 USD of BTC is now available in your account,1,0,1,phishing
-15,To prevent any potential security breaches, it is crucial that all employees update their systems immediately,1,1,1,phishing
+15,To prevent any potential security breaches it is crucial that all employees update their systems immediately.,1,1,1,phishing
 16,Immediate Action Required: Email Account Deactivation Notice,1,0,1,phishing
 17,A refund of R4,240 is now pending. This link will expire in 2 business days.,0,1,1,phishing
 18,Immediate adjustments are necessary. Please urgently review conflicting dates to resolve this issue.,1,1,1,phishing
